@@ -8,10 +8,10 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import pandas, numpy and mathplotlib.pyplot.
+2. Trace the best fit line and calculate the cost function.
+3. Calculate the gradient descent and plot the graph for it.
+4. Predict the profit for two population sizes.
 
 ## Program:
 ```
@@ -56,8 +56,23 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+### data
+![Screenshot 2024-03-10 124248](https://github.com/Jenishajustin/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405070/a36ca5ef-8ca2-47d9-8b5d-c0f3c33f27a4)
 
+### X values
+![Screenshot 2024-03-10 124430](https://github.com/Jenishajustin/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405070/42ee668d-c007-4f46-85b5-907e8ce31498)
+
+### y values
+![Screenshot 2024-03-10 124528](https://github.com/Jenishajustin/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405070/d5cacfc3-9ffe-44fc-b800-282b632a49d3)
+
+###  X scaled 
+![Screenshot 2024-03-10 124653](https://github.com/Jenishajustin/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405070/b2433095-d24b-408f-8632-82afb0d684b3)
+
+### y scaled
+![Screenshot 2024-03-10 124737](https://github.com/Jenishajustin/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405070/435e20b8-40ce-48dd-b63a-c34d7aea8b8b)
+
+### Predicted value
+![Screenshot 2024-03-10 124822](https://github.com/Jenishajustin/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119405070/504a544d-4365-4acf-b86c-20d3a9c207ba)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
